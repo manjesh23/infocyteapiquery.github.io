@@ -6,7 +6,7 @@ twine
 pandas==1.3.5
 tqdm==4.61.0
 paginateit
-requests
+requests==2.32.3
 
 pytest==6.2.4
 pytest-runner
