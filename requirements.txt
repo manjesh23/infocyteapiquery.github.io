@@ -1,6 +1,6 @@
 pip
 wheel
-Sphinx
+Sphinx==4.4.0
 twine
 
 pandas==1.3.5
