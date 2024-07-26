@@ -8,5 +8,5 @@ tqdm==4.61.0
 paginateit
 requests
 
-pytest==6.2.4
+pytest==8.3.2
 pytest-runner
