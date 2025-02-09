@@ -1,4 +1,4 @@
-pip
+pip==25.0.1
 wheel
 Sphinx
 twine
